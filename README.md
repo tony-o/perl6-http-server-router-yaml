@@ -1,4 +1,4 @@
-# A simply YAML router for HTTP::Server::Router*
+# A simply YAML router for HTTP::Server::Router
 
 A simple YAML router for `HTTP::Server::Router`
 
